@@ -1,6 +1,5 @@
-
 fn main() {
-    let arr = [0;10];
+    let arr = [0; 10];
 
-    println!("{}",arr)
+    println!("{:?}", arr)
 }
